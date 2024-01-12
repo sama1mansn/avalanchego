@@ -11,7 +11,7 @@ awscpu
 *.so
 *.dylib
 *.profile
-
+naries for programs and plugins
 # Test binary, build with `go test -c`
 *.test
 tmp/
